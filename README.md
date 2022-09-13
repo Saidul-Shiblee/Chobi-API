@@ -1,6 +1,6 @@
 # Introduction
 
-**chobi**-A Social Media app api bootstrapped with **_<span style={color:red}>Express JS </span>_** and **_MonogoDB_**.
+**chobi API**-A Social Media app api bootstrapped with **_<span style={color:red}>Express JS </span>_** and **_MonogoDB_**.
 
 # 🎯 Purpose of the Project
 
